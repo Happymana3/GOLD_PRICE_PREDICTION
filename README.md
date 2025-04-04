@@ -1,2 +1,2 @@
 # LEARN
-LEARNING ABOUT GITHUB
+gold_price_prediction using gold_daa available on kaggle dataset

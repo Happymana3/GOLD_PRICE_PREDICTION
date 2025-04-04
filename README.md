@@ -1,2 +1,2 @@
 
-gold_price_prediction using gold_daa available on kaggle dataset
+gold_price_prediction using gold_data available on kaggle dataset
